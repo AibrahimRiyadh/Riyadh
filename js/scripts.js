@@ -10,9 +10,9 @@ window.onload = function() {
     var hours =  date.getHours();
     var minutes =  date.getMinutes();
     var current = hours + (minutes * .01);
-    if (current >= 5 && current < 19) return 'Have a nice day';
-    if (current >= 19 && current < 22) return 'Have a nice evening';
-    if (current >= 22 || current < 5) return 'Have a good night';
+    if (current >= 5 && current < 19) return 'Have a nice day ☀️';
+    if (current >= 19 && current < 22) return 'Have a nice evening...';
+    if (current >= 22 || current < 5) return 'Have a good night🌃';
   }
 
   var messages = [
@@ -20,7 +20,9 @@ window.onload = function() {
     'I\'m Riyadh',
     'I\'m a Blogger and Web developer',
     'I\'m currently accepting freelancing Work.<br> You can contact me at <a href="mailto:aibrahim@riyadh.eu.org">aibrahim@riyadh.eu.org</a>',
-    '<a target="_blank" href="https://twitter.com/AibrahimRiyadh">twitter.com/AibrahimRiyadh</a><br><a target="_blank" href="https://t.me/AibrahimRiyadh">t.me/AibrahimRiyadh</a><br><a target="_blank" href="https://facebook.com/AibrahimRiyadh">facebook.com/AibrahimRiyadh</a>',
+    'Find me on <a target="_blank" href="https://twitter.com/AibrahimRiyadh">Twitter</a><br><a target="_blank" href="https://t.me/AibrahimRiyadh">Telegram</a><br><a target="_blank" href="https://linkedin.com/in/aibrahimriyadh">LinkedIn</a>',
+    'A',
+    'B',
     getCurrentTime(),
     '©2019 - 2020 Aibrahim Riyadh'
   ]
