@@ -20,9 +20,7 @@ window.onload = function() {
     'I\'m Riyadh',
     'I\'m a Blogger and Web developer',
     'I\'m currently accepting freelancing Work.<br> You can contact me at <a href="mailto:aibrahim@riyadh.eu.org">aibrahim@riyadh.eu.org</a>',
-    'Find me on <a target="_blank" href="https://twitter.com/AibrahimRiyadh">Twitter</a><br><a target="_blank" href="https://t.me/AibrahimRiyadh">Telegram</a><br><a target="_blank" href="https://linkedin.com/in/aibrahimriyadh">LinkedIn</a>',
-    'A',
-    'B',
+    'Find me on <a target="_blank" href="https://twitter.com/AibrahimRiyadh">Twitter</a><a target="_blank" href="https://t.me/AibrahimRiyadh">Telegram</a><a target="_blank" href="https://linkedin.com/in/aibrahimriyadh">LinkedIn</a>',
     getCurrentTime(),
     '©2019 - 2020 Aibrahim Riyadh'
   ]
