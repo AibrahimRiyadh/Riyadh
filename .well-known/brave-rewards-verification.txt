@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: riyadh.eu.org
-Token: 6caf7915840becf1edcdce0e9b9a7a5a005e9df31dee6273d12af4b5ae37c89e
